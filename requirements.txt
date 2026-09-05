@@ -8,3 +8,7 @@ pandas==3.0.5
 scipy==1.18.1
 scikit-learn==1.9.0
 pyarrow==25.0.1
+
+# For the frontend UI
+streamlit==1.63.0
+requests==2.34.2
